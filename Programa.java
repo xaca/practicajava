@@ -222,7 +222,7 @@ public class Programa{
                 			System.out.println("Tu signo zodiacal es:  Sagitario");
                 		}
                 		else{
-                			System.out.println("ten en cuenta que noviembre tiene 30 dias");
+                			System.out.println("ten en cuenta que noviembre tiene  30 dias");
 
                 			
                 		}
