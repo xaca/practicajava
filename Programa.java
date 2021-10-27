@@ -198,7 +198,7 @@ public class Programa{
 
                 if(mes == 10){
             		if(dia <= 23){
-                		System.out.println("Tu signo zodiacal es: Libra");
+                		System.out.println("Tu signo zodiacal es:  Libra");
             		}
             		else{
             			if(dia <=31){
