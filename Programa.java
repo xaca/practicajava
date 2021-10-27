@@ -126,7 +126,7 @@ public class Programa{
 
                 if(mes == 6){
             		if(dia <= 21){
-                		System.out.println("Tu signo zodiacal es: Geminis");
+                		System.out.println("Tu signo zodiacal es:  Geminis");
             		}
             		else{
             			if(dia <=30){
