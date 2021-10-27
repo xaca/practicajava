@@ -95,7 +95,7 @@ public class Programa{
             		}
             		else{
             			if(dia <=30){
-                			System.out.println("Tu signo zodiacal es: Tauro");
+                			System.out.println("Tu signo zodiacal es:  Tauro");
                 		}
                 		else{
                 			System.out.println("ten en cuenta que abril tiene 30 dias");
