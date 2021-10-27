@@ -108,7 +108,7 @@ public class Programa{
 
                 if(mes == 5){
             		if(dia <= 21){
-                		System.out.println("Tu signo zodiacal es: Tauro");
+                		System.out.println("Tu signo zodiacal es:  Tauro");
             		}
             		else{
             			if(dia <=31){
