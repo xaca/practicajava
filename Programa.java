@@ -169,7 +169,7 @@ public class Programa{
                 			System.out.println("Tu signo zodiacal es: Virgo");
                 		}
                 		else{
-                			System.out.println("ten en cuenta que agosto tiene 31 dias");
+                			System.out.println("ten en cuenta que agosto tiene  31 dias");
 
                 			
                 		}
