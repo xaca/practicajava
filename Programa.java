@@ -219,7 +219,7 @@ public class Programa{
             		}
             		else{
             			if(dia <=30){
-                			System.out.println("Tu signo zodiacal es: Sagitario");
+                			System.out.println("Tu signo zodiacal es:  Sagitario");
                 		}
                 		else{
                 			System.out.println("ten en cuenta que noviembre tiene 30 dias");
@@ -237,7 +237,7 @@ public class Programa{
             		}
             		else{
             			if(dia <=31){
-                			System.out.println("Tu signo zodiacal es: Capricornio");
+                			System.out.println("Tu signo zodiacal es:  Capricornio");
                 		}
                 		else{
                 			System.out.println("ten en cuenta que diciembre tiene 31 dias");
