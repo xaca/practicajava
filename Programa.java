@@ -148,7 +148,7 @@ public class Programa{
             		}
             		else{
             			if(dia <=31){
-                			System.out.println("Tu signo zodiacal es: Leo");
+                			System.out.println("Tu signo zodiacal es:  Leo");
                 		}
                 		else{
                 			System.out.println("ten en cuenta que julio tiene 31 dias");
