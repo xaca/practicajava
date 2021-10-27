@@ -180,7 +180,7 @@ public class Programa{
 
                 if(mes == 9){
             		if(dia <= 23){
-                		System.out.println("Tu signo zodiacal es: Virgo");
+                		System.out.println("Tu signo zodiacal es:  Virgo");
             		}
             		else{
             			if(dia <=30){
