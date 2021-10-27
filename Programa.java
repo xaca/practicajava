@@ -115,7 +115,7 @@ public class Programa{
                 			System.out.println("Tu signo zodiacal es: Geminis");
                 		}
                 		else{
-                			System.out.println("ten en cuenta que mayo tiene 31 dias");
+                			System.out.println("ten en cuenta que mayo tiene  31 dias");
 
                 			
                 		}
