@@ -55,7 +55,7 @@ public class Programa{
 
                 if(mes == 2){
             		if(dia <= 20){
-                		System.out.println("Tu signo zodiacal es: Acuario");
+                		System.out.println("Tu signo zodiacal es:  Acuario");
             		}
             		else{
             			if(dia <=29){
