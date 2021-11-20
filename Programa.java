@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Muy bien, pilas con los .class en el repositorio
 public class Programa{
 	public static void main(String[] args){
 		
